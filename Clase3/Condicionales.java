@@ -52,7 +52,7 @@ public class Condicionales {
 
         // e) Leer tiempo si distancia > 20 y < 35
         System.out.println("Digite la distancia: ");
-        int distancia = sc.nextInt();12
+        int distancia = sc.nextInt();
         if (distancia > 20 && distancia < 35) {
             System.out.print("Ingrese valor para tiempo: ");
             int tiempo = sc.nextInt();
